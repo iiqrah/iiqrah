@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ... creating my README GitHub profile
 - 🌱 I’m currently learning ... how to get better at documenting my dev journey.
 - 👯 I’m looking to collaborate on ... collecting rad README GitHub profiles.
