@@ -9,3 +9,7 @@
 - 😄 Pronouns: ... She/Her
 - ⚡ Fun fact: ... I love taking part in hackathons and creative jams! 💖
 
+
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/python.svg"/>
+
+
