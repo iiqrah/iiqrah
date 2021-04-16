@@ -10,6 +10,22 @@
 - ⚡ Fun fact: ... I love taking part in hackathons and creative jams! 💖
 
 
-<img height="32" width="32" src="https://cdn.worldvectorlogo.com/logos/python-5.svg"/>
+--------
+
+ 🛠 Languages and Tools
+
+[<img height="32" width="32" alt="Python Logo" src="https://cdn.worldvectorlogo.com/logos/python-5.svg"/>]()
+[<img height="32" width="32" alt="HTML5 Logo" src="https://cdn.worldvectorlogo.com/logos/html5.svg"/>]()
+[<img height="32" width="32" alt="CSS3 Logo" src="https://cdn.worldvectorlogo.com/logos/css-5.svg"/>]()
+[<img height="32" width="32" alt="JS Logo" src="https://cdn.worldvectorlogo.com/logos/javascript.svg"/>]()
+[<img height="32" width="32" alt="Bootstrap Logo" src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg"/>]()
+[<img height="32" width="32" alt="Swift Logo" src="https://cdn.worldvectorlogo.com/logos/swift-15.svg"/>]()
+[<img height="32" width="32" alt="VS Code Logo" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"/>]()
+[<img height="32" width="32" alt="Adobe Creative Cloud Logo" src="https://cdn.worldvectorlogo.com/logos/adobe-creative-cloud-cc.svg"/>]()
+
+--------
+
+
+
 
 
